@@ -13,7 +13,7 @@ Este proyecto consiste en un formulario de registro sencillo con validaciones b√
 ## Instalaci√≥n
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/usuario/formulario-registro.git
+   git clone https://github.com/rcornejom06/TRABAJO_EXPERIMENTAL_1-DESARROLLO-WEB.git
    ```
 2. Navegar al directorio del proyecto:
    ```bash
