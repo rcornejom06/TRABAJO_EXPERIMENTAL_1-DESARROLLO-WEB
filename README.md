@@ -15,11 +15,7 @@ Este proyecto consiste en un formulario de registro sencillo con validaciones b√
    ```bash
    git clone https://github.com/rcornejom06/TRABAJO_EXPERIMENTAL_1-DESARROLLO-WEB.git
    ```
-2. Navegar al directorio del proyecto:
-   ```bash
-   cd formulario-registro
-   ```
-3. Abrir el archivo `index.html` en tu navegador web preferido.
+2. Abrir el archivo `index.html` en tu navegador web preferido.
 
 
 ## Funcionalidades
